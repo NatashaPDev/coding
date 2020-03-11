@@ -1,0 +1,14 @@
+2 1
+ab
+LanguageA
+%TEMPLATE-START%
+aba
+%TEMPLATE-END%
+LanguageAB
+%TEMPLATE-START%
+ab
+%TEMPLATE-END%
+LanguageB
+%TEMPLATE-START%
+b
+%TEMPLATE-END%
